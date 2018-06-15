@@ -1,0 +1,71 @@
+[33mcommit bb38dd691f92f8a80cee497550b0bca157327dcf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 363eeb7 e5774f9
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:57:23 2018 +0700
+
+    Merge branch 'master' of https://github.com/caoluyennguyen/Test-2
+    
+    something
+
+[33mcommit e5774f9d22c678ec34953b35a395cdeda54eeb6a[m
+Merge: d1f7d4c fa2e7d6
+Author: locnguyen <vanloctech@gmail.com>
+Date:   Thu Jun 14 21:46:09 2018 +0700
+
+    Merge branch 'devLoc'
+    
+    merge thanh con
+    gshdbasjhd
+
+[33mcommit 363eeb7495c8980b45283001b543e1db4a93af09[m
+Merge: 9773a72 0fbcfa9
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:43:04 2018 +0700
+
+    Merge branch 'devLuyen'
+    nothing to say
+    
+    nothing here
+
+[33mcommit fa2e7d66dc128baceccb1c38ffb411a6935673cd[m[33m ([m[1;31morigin/devLoc[m[33m)[m
+Author: locnguyen <vanloctech@gmail.com>
+Date:   Thu Jun 14 21:41:34 2018 +0700
+
+    loc add d
+
+[33mcommit 0fbcfa95fc735cc6744daeb9fa9ef6b4aa4b38cf[m
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:41:17 2018 +0700
+
+    Them file d
+
+[33mcommit d1f7d4c1ce00f533718e432ed2bdbcfe62a46597[m
+Merge: 0bc42bb 9773a72
+Author: locnguyen <vanloctech@gmail.com>
+Date:   Thu Jun 14 21:32:53 2018 +0700
+
+    Merge branch 'master' of https://github.com/caoluyennguyen/Test-2
+
+[33mcommit 9773a7261231fd999d5e400419ffda4092d6ac73[m
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:31:27 2018 +0700
+
+    Them file c.txt
+
+[33mcommit bd1336cc5ae6ed1944d098fac97cbac88e391a7b[m
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:26:03 2018 +0700
+
+    Sua file a
+
+[33mcommit 0bc42bb804a95800e78d153f877993d62d3b1a88[m
+Author: locnguyen <vanloctech@gmail.com>
+Date:   Thu Jun 14 21:25:51 2018 +0700
+
+    loc commit 1
+
+[33mcommit 597055a957753b0dbb649c210ee765f228679909[m
+Author: caoluyennguyen <39220514+caoluyennguyen@users.noreply.github.com>
+Date:   Thu Jun 14 21:15:34 2018 +0700
+
+    Test 2
