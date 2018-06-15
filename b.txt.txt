@@ -1,2 +1,6 @@
 Hi dude
+<<<<<<< HEAD
 Loc suas
+=======
+Luyen sua
+>>>>>>> devLuyen
